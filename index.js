@@ -1,4 +1,4 @@
-var xlsx = require('xlsx'),
+var xlsx = require('xlsx-browserify-shim'),
 	path = require('path');
 
 /* initial code from http://sheetjs.com/demos/writexlsx.html */

@@ -1,3 +1,5 @@
+Fork version using xlsx-browserify-shim
+
 A simple, friendly interface for [xslx](https://github.com/SheetJS/js-xlsx), that allows easy creation of new Excel spreadsheets and simple editing of existing ones.
 
 Creating a new spreadsheet and adding a little data is easy.
