@@ -1,5 +1,5 @@
 {
-  "name": "xlsx-workbook",
+  "name": "xlsx-workbook-browserify-shim",
   "version": "1.0.2",
   "description": "A simple, friendly interface for xlsx",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waylonflinn/xlsx-workbook.git"
+    "url": "git+https://github.com/aksoneng/xlsx-workbook.git"
   },
   "keywords": [
     "xlsx",
@@ -21,9 +21,9 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/waylonflinn/xlsx-workbook/issues"
+    "url": "https://github.com/aksoneng/xlsx-workbook/issues"
   },
-  "homepage": "https://github.com/waylonflinn/xlsx-workbook#readme",
+  "homepage": "https://github.com/aksoneng/xlsx-workbook#readme",
   "dependencies": {
     "xlsx-browserify-shim": "^0.0.5"
   }
